@@ -1,0 +1,16 @@
+export const EQUIPMENT_CATEGORIES = [
+  { id: 'tractor', en: 'Tractor', mr: 'ट्रॅक्टर (कर्षित्र)' },
+  { id: 'harvester', en: 'Harvester (Kapani Yantra)', mr: 'हार्वेस्टर (कापणी यंत्र)' },
+  { id: 'rotavator', en: 'Rotavator', mr: 'रोटाव्हेटर (रोटरी टिलर)' },
+  { id: 'harrow', en: 'Harrow', mr: 'हॅरो (कुळव)' },
+  { id: 'plough', en: 'Plough (Naangar)', mr: 'नांगर (पलटी नांगर)' },
+  { id: 'seed_drill', en: 'Seed Drill (Perani Yantra)', mr: 'सीड ड्रिल (पेरणी यंत्र)' },
+  { id: 'sprayer', en: 'Sprayer (Favarani Yantra)', mr: 'स्प्रेअर (फवारणी यंत्र)' },
+  { id: 'thresher', en: 'Thresher (Malani Yantra)', mr: 'थ्रेशर (मळणी यंत्र)' },
+  { id: 'power_tiller', en: 'Power Tiller (Yantrik Naangar)', mr: 'पॉवर टिलर (यांत्रिक नांगर)' },
+  { id: 'drone', en: 'Agriculture Drone', mr: 'कृषी ड्रोन (ड्रोन यंत्र)' },
+  { id: 'fertiliser_spreader', en: 'Fertiliser Spreader (Khat Fekani Yantra)', mr: 'फर्टिलायझर स्प्रेडर (खत फेकणी यंत्र)' },
+  { id: 'power_weeder', en: 'Power Weeder', mr: 'पॉवर विडर (तण काढणी यंत्र)' },
+  { id: 'cultivator', en: 'Cultivator', mr: 'कल्टिव्हेटर (कोळपे)' },
+  { id: 'other', en: 'Other', mr: 'इतर (इतर यंत्रे)' },
+];
